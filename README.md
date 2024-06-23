@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src=" https://github.com/offwitt0/X/blob/main/12.jpg"  />
+  <img height="200" src= ![](https://raw.githubusercontent.com/offwitt0/X/main/12.jpg) />
 </div>
 
 ###
@@ -59,59 +59,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=offwitt0&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<div align="center">
-  <img height="0" src=""  />
-</div>
-
-###
-
-<div align="center">
-  <img height="" src=""  />
-</div>
-
-###
-
-<div align="center">
-  <img height="0" src=""  />
-</div>
-
-###
-
-<div align="center">
-  <img height="" src=""  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="0" src=""  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
