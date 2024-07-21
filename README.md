@@ -1,8 +1,8 @@
 <br clear="both">
 <div align="center">
-  <img height="200" src="https://private-user-images.githubusercontent.com/81443480/342108529-1dcb6b7e-4515-4b93-b91b-2c3707f213f5.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTkxNjg2NzksIm5iZiI6MTcxOTE2ODM3OSwicGF0aCI6Ii84MTQ0MzQ4MC8zNDIxMDg1MjktMWRjYjZiN2UtNDUxNS00YjkzLWI5MWItMmMzNzA3ZjIxM2Y1LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjIzVDE4NDYxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVjMmUyNGZlZDY1NzRhNjJjOWM0NDZjNDQwZjkyY2JhMjE0ZGI2OWNlM2U2NDVkZjU1ZWJjNmUyM2Q3MzhiZTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.VbS0hC_87TL4S2bsWmCcaQlZWRIbFW3AvzY2zV9BhsI"/>
 </div>
 
+![6](https://github.com/user-attachments/assets/06c690f3-ff56-4842-bcd7-c23bf8e9e43e)
 ###
 <div align="center">
   <a href="https://www.linkedin.com/in/offwitt0/" target="_blank">
