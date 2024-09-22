@@ -30,7 +30,7 @@
 
 ###
 <p align="left">
-I'm Mohamed Hamdi Computer Science Student At Zagazig University || C.I.S || I'm Data Analyst || Interested in Data Engineering and ML<br>
+I'm Mohamed Hamdi I'm a Data Analyst Interested in Data Engineering and ML<br>
 Proficient in utilizing data-driven approaches to identify key insights and
 trends that drive business value and improve decision-making processes.<br>
 - 🔭 I’m working as Data Analyst <br>
