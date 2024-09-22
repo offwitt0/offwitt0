@@ -2,7 +2,7 @@
 <div align="center">
 </div>
 
-![6](https://github.com/user-attachments/assets/06c690f3-ff56-4842-bcd7-c23bf8e9e43e)
+![2](https://github.com/user-attachments/assets/36b53e37-7124-4555-afff-8a5c302ff613)
 ###
 <div align="center">
   <a href="https://www.linkedin.com/in/offwitt0/" target="_blank">
